@@ -1,0 +1,20 @@
+{
+  "model": "AMYCLIP finalized Run26 ensemble",
+  "checkpoints": [
+    {
+      "seed": 17,
+      "file": "amyclip_run26_intrinsic_enriched_seed17_20260828_115237.ckpt",
+      "sha256": "c9425e90fd54b87848cc3b6d657706f855f2557d8fc01bf2e6943fad281b4383"
+    },
+    {
+      "seed": 29,
+      "file": "amyclip_run26_intrinsic_enriched_seed29_20260828_122546.ckpt",
+      "sha256": "551251b281ede49466d468cdc7db1702d843f50561b7e223d6f10d7f7169f703"
+    },
+    {
+      "seed": 42,
+      "file": "amyclip_run26_intrinsic_enriched_seed42_20260828_095748.ckpt",
+      "sha256": "9cfecec9360812876991c9318df1fbfa7dc8deb5123698ab3bbb040dacf7c25f"
+    }
+  ]
+}
