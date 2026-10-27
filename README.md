@@ -27,7 +27,7 @@ part of this first-submission package.
 ## Repository hierarchy
 
 ```text
-amyclip-model-release/
+AMYCLIP/
 ├── amyclip/
 │   ├── model.py                 # final architecture and checkpoint loader
 │   ├── losses.py                # retrieval, intrinsic, and total objectives
